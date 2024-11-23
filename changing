@@ -37,7 +37,7 @@
         }
 
         // Change emoji every minute(60,000 milliseconds)
-        setInterval(changeEmoji, 60000);
+        setInterval(changeEmoji, 6000);
 
         //initial call to display the first emoji
         changeEmoji();
